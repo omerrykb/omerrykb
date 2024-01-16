@@ -31,7 +31,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display:flex; align-items:center; justify-content:space-evenly;">
   <a href="mailto:omerryuksekbag@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ff2909&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
