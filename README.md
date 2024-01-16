@@ -19,3 +19,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerrykb&" alt="omerrykb" /></p>
 
+
+
+
+![snake gif](https://github.com/omerrykb/omerrykb/blob/output/github-contribution-grid-snake.gif)
