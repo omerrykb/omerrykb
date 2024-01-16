@@ -1,4 +1,4 @@
-[![MasterHead](https://cutewallpaper.org/28/computer-circuit-desktop-wallpaper/3066621635.jpg)
+![MasterHead](https://cutewallpaper.org/28/computer-circuit-desktop-wallpaper/3066621635.jpg)
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
