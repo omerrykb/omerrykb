@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Ömer<br>A passionate frontend developer from Turkey</h1>
+<h1 align="center">Hi 👋, I'm Ömer<br>A passionate Front-End developer from Turkey</h1>
 
 ###
 
