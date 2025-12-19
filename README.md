@@ -1,41 +1,77 @@
 <div align="center">
-  <img height="290" src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif"  />
+  <img height="280" src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" />
 </div>
 
-###
+<h3 align="center">console.log("Hello World 👋");</h3>
 
-<h4 align="center">Hello World!</h4>
+<h1 align="center">
+Hi, I'm Ömer 👨‍💻 <br/>
+Front-End Developer focused on modern web experiences
+</h1>
 
-###
+<p align="center">
+React & Next.js ekosisteminde, performanslı ve ölçeklenebilir arayüzler geliştiriyorum.<br/>
+UI/UX takıntım var, pixel kaçarsa uykum kaçar.
+</p>
 
-<h1 align="center">Hi 👋, I'm Ömer<br>A passionate Front-End developer from Turkey</h1>
+---
 
-###
+### 🚀 Hakkımda Kısa Kısa
+- 🧠 ~5 yıldır aktif olarak web geliştiriyorum  
+- ⚛️ **Frontend ağırlıklıyım**, ama backend mantığını da severim  
+- 🏥 Şu anda **Medicana** tarafında kurumsal web projeleri geliştiriyorum  
+- 🧩 Temiz component yapıları ve sürdürülebilir kod takıntım var  
+- 🧪 “Çalışıyor ama neden çalışıyor?” sorusunu sormayı severim  
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="scss-sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
 </div>
 
-###
+---
+
+### 🧠 İlgi Alanlarım
+- Component mimarileri  
+- Form yönetimi (Formik, multi-step yapılar vs.)  
+- State yönetimi (Redux, yeni şeyler kurcalanıyor 👀)  
+- Gerçek hayatta kullanılan, “prod-ready” çözümler  
+
+---
+
+### 📫 Bana Ulaş
 
 <div align="center">
-  <a href="mailto:omerryuksekbag@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ff2909&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:omerryuksekbag@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff2909?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tr.linkedin.com/in/%C3%B6mer-y%C3%BCksekba%C4%9F-8841572a9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0060B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://tr.linkedin.com/in/%C3%B6mer-y%C3%BCksekba%C4%9F-8841572a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0060B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
+---
+
+<p align="center">
+⚡ Kod yazıyorum çünkü fikirlerim susmuyor.
+</p>
