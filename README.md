@@ -6,7 +6,7 @@
 
 <h1 align="center">
 Hi, I'm Ömer 👨‍💻 <br/>
-Front-End Developer focused on modern web experiences
+Front-End Developer
 </h1>
 
 <p align="center">
@@ -16,12 +16,9 @@ UI/UX takıntım var, pixel kaçarsa uykum kaçar.
 
 ---
 
-### 🚀 Hakkımda Kısa Kısa
-- 🧠 ~5 yıldır aktif olarak web geliştiriyorum  
+### 🚀 Hakkımda
+- 🧠 ~3 yıldır aktif olarak web yazılımları geliştiriyorum  
 - ⚛️ **Frontend ağırlıklıyım**, ama backend mantığını da severim  
-- 🏥 Şu anda **Medicana** tarafında kurumsal web projeleri geliştiriyorum  
-- 🧩 Temiz component yapıları ve sürdürülebilir kod takıntım var  
-- 🧪 “Çalışıyor ama neden çalışıyor?” sorusunu sormayı severim  
 
 ---
 
@@ -52,9 +49,10 @@ UI/UX takıntım var, pixel kaçarsa uykum kaçar.
 ---
 
 ### 🧠 İlgi Alanlarım
-- Component mimarileri  
+- Animasyonlar
+- Component mimarileri
 - Form yönetimi (Formik, multi-step yapılar vs.)  
-- State yönetimi (Redux, yeni şeyler kurcalanıyor 👀)  
+- State yönetimi (Redux, Zustand)  
 - Gerçek hayatta kullanılan, “prod-ready” çözümler  
 
 ---
@@ -73,5 +71,5 @@ UI/UX takıntım var, pixel kaçarsa uykum kaçar.
 ---
 
 <p align="center">
-⚡ Kod yazıyorum çünkü fikirlerim susmuyor.
+⚡ Vi Veri Veniversum Vivus Vici
 </p>
